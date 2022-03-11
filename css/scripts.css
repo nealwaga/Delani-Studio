@@ -5,3 +5,10 @@
     background-size: cover;
     position: relative;
 }
+.logo{
+    background: url(/assets/logo.png);
+    position: absolute;
+    height: 100vh;
+    width: 100vh;
+    
+}
