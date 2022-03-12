@@ -40,7 +40,7 @@ small{
     align-items: center;
     position: relative;
 }
-.break{
+.w3-container{
     color: black;
     position: absolute;
     left: 15%;
