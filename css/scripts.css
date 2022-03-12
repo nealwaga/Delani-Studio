@@ -17,4 +17,7 @@
 }
 .content{
     color: white;
+    position: absolute;
+    top: 50%;
+    left: 40%;
 }
