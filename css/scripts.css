@@ -6,3 +6,15 @@
     position: relative;
     background-repeat: no-repeat;
 }
+.logo{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background: transparent;
+}
