@@ -40,3 +40,8 @@ small{
     align-items: center;
     position: relative;
 }
+.break{
+    color: black;
+    position: absolute;
+    left: 20%;
+}
