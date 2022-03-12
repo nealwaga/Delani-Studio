@@ -58,3 +58,13 @@ p{
     left: -15%;
     position: relative;
 }
+.services{
+    color: black;
+    position: absolute;
+    right: 25%;
+}
+h4{
+    font-size: 20px;
+    position: relative;
+    left: 40%;
+}
