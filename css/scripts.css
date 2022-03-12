@@ -43,5 +43,10 @@ small{
 .break{
     color: black;
     position: absolute;
-    left: 20%;
+    left: 15%;
+}
+h3{
+    font-size: 30px;
+    left: 40%;
+    position: relative;
 }
