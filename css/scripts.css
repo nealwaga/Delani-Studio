@@ -47,9 +47,14 @@ small{
 }
 h3{
     font-size: 30px;
-    left: 40%;
+    left: 20%;
     position: relative;
 }
 p{
     font-size: 17px;
+}
+.image-two{
+    margin: 0%;
+    left: -15%;
+    position: relative;
 }
