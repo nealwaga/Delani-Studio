@@ -60,7 +60,7 @@ p{
 }
 .image-two{
     background-image: url(/assets/backgrounds/s_image.jpg);
-    height: 100vh;
+    height: 60vh;
     width: 100vw;
     background-size: cover;
     position: relative;
