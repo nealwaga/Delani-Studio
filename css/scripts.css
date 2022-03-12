@@ -32,3 +32,11 @@ h2{
 small{
     font-size: 20px;
 }
+.click{
+    display: flex;
+    left: 0%;
+    top: 75%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
