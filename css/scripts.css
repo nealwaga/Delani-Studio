@@ -178,9 +178,44 @@ h8{
 }
 .image-three{
     background-image: url(/assets/backgrounds/c_image.jpg);
-    height: 60vh;
+    height: 50vh;
     width: 100vw;
     background-size: cover;
     position: relative;
     background-repeat: no-repeat;
+    left: -15%;
+}
+h9{
+    position: relative;
+    left: 40%;
+    font-size: 35px;
+    top: 20%;
+    color: black;
+}
+.contactForm{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    min-height: 30vh;
+    font-size: 36px;
+    padding: 40px;
+}
+h10{
+    font-size: 35px;
+}
+.inputBox{
+    position: relative;
+    margin-top: 10px;
+}
+.contactForm .inputBox input,
+.contactForm .inputBox textarea{
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid;
+    outline: none;
+    resize: none;
 }

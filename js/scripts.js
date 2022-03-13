@@ -15,3 +15,9 @@ $("po").hover(function(){
     }, function(){
     $(this).css("background-color", "pink");     
 });
+
+let form = document.getElementsByTagName("form")[0];
+form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    alert("Form Submitted. Thank you!");
+});
