@@ -137,3 +137,18 @@ h5{
     font-size: 20px;
     transition: all ease 0.5s;
 }
+.design .more-btn:hover{
+    background-color: #f7f7f7;
+    color: #ea7f04;
+}
+.more-text h7{
+    color: black;
+}
+.more-text p{
+    color: black;
+    line-height: 30px;
+    font-weight: 500;
+}
+.more-text.active{
+    bottom: 0;
+}
