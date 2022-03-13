@@ -152,3 +152,8 @@ h5{
 .more-text.active{
     bottom: 0;
 }
+h8{
+    font-size: 35px;
+    position: relative;
+    left: 30%;
+}
