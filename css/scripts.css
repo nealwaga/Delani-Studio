@@ -82,3 +82,19 @@ h5{
     left: 25%;
     font-size: 35px;
 }
+.icon-one{
+    width: 100%;
+}
+.icon-two{
+    width: 100%;
+}
+.icon-three{
+    width: 100%;
+}
+.what-we-do{
+    display: flex;
+    justify-content: space-between;
+    left: 5%;
+    align-items: center;
+    flex-wrap: wrap;
+}
