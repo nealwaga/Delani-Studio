@@ -158,3 +158,20 @@ h8{
     left: 25%;
     top: 30%;
 }
+.one-portfolio{
+    display: flex;
+    justify-content: space-between;
+    left: -25%;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.pt{
+    position: relative;
+    padding-bottom: 50px;
+    border-radius: 6px;
+    overflow: hidden;
+    width: 408px;
+    background-color: #fff;
+    box-shadow: 0 21px 35px rgb(0 0 0 / .10);
+    left: -15%;
+}
