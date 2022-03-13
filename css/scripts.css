@@ -128,7 +128,7 @@ h5{
     left: 0;
     right: 0;
     margin: 0 auto;
-    background-color: #ea7f04;
+    background-color: white;
     text-align: center;
     line-height: 60px;
     color: #fff;
@@ -139,7 +139,7 @@ h5{
 }
 .design .more-btn:hover{
     background-color: #f7f7f7;
-    color: #ea7f04;
+    color: white
 }
 .more-text h7{
     color: black;
@@ -155,5 +155,6 @@ h5{
 h8{
     font-size: 35px;
     position: relative;
-    left: 30%;
+    left: 25%;
+    top: 30%;
 }
