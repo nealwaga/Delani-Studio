@@ -157,6 +157,7 @@ h8{
     position: relative;
     left: 25%;
     top: 30%;
+    bottom: 30%;
 }
 .one-portfolio{
     display: flex;
@@ -174,4 +175,12 @@ h8{
     background-color: #fff;
     box-shadow: 0 21px 35px rgb(0 0 0 / .10);
     left: -15%;
+}
+.image-three{
+    background-image: url(/assets/backgrounds/c_image.jpg);
+    height: 60vh;
+    width: 100vw;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
 }
