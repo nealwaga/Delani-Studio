@@ -59,7 +59,7 @@ p{
     position: relative;
 }
 .image-two{
-    background-image: url(/assets/backgrounds/s_image.jpg);
+    background-image: url("../assets/backgrounds/s_image.jpg");
     height: 60vh;
     width: 100vw;
     background-size: cover;
@@ -177,7 +177,7 @@ h8{
     left: -15%;
 }
 .image-three{
-    background-image: url(/assets/backgrounds/c_image.jpg);
+    background-image: url("../assets/backgrounds/c_image.jpg");
     height: 50vh;
     width: 100vw;
     background-size: cover;
