@@ -1,4 +1,4 @@
-# My project is called Delani-Studio
+Delani-Studio
 
 In this project, I was implementing all that I have learned for the past three weeks to create a functional and responsive landing page for a fictional studio. Check it out. I exceeded my expectations to be honest.
 
